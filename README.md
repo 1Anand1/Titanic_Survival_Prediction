@@ -4,4 +4,4 @@ This repository will contain the code for the survival prediction during the Tit
 
 I will be improving the acurracy of the code by checking use of other algorithms.
 
-Aim is to imptove the acurracy to 85%.
+Aim is to improve the acurracy to 85%.
